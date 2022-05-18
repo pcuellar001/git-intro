@@ -2,3 +2,4 @@
 hola este es el texto del txt GIT
 Primer cambio realizado el día de hoy.3
 modificado en ramificación 3
+Modificando en master ejemplo stash
